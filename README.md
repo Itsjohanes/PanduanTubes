@@ -33,4 +33,3 @@ CREATE TABLE `product_hp` (
 
 Keterangan Tambahan:
 Tambahkan Dependencies mysql-connector-java-8.0.28.jar pada Project Baru anda
-Buatkan juga laporan
