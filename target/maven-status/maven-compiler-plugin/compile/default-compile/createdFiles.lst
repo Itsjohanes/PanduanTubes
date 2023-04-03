@@ -1,0 +1,6 @@
+com\johanes\sihape\controller\ProductDAOImp.class
+com\johanes\sihape\Main.class
+com\johanes\sihape\controller\ProductDAO.class
+com\johanes\sihape\DB\ConnectionDB.class
+com\johanes\sihape\model\Product.class
+com\johanes\sihape\view\ViewCRUD.class
