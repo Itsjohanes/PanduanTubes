@@ -24,8 +24,10 @@ CREATE TABLE `product_hp` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
--- Silahkan Anda Buat File baru dan Modifikasi Kodingan ini yang penting menerapkan CRUD. Jumlah Tabel saya bebaskan
-
+ 
+--
+-- SILAKAN BUAT FILE BARU DENGAN KASUS YANG BERBEDA
+--
 ===========================================================
 
 
