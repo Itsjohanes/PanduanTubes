@@ -24,7 +24,7 @@ CREATE TABLE `product_hp` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
-Editlah productId menjadi autoincrement
+Tambahkan autoincrement pada productId  
 
 -- --------------------------------------------------------
  
